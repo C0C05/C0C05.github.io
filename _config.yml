@@ -3,7 +3,7 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
+# HChange the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
 baseurl: ''
 
@@ -21,34 +21,30 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: xDaNN1                          # the main title
+title: C0C05 # the main title
 
-tagline: Cybersecurity enthusiast | CTF Player | eJPT   # it will display as the sub-title
+tagline: Estudiante de ciberseguridad | CTF Player   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Blog sobre ciberseguridad, Hacking ético y CTF, orientado tanto para personas nuevas en el sector como para personas experimentadas.
-
+    Blog de estudio para el curso de especialización en ciberseguridad.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://xdann1.github.io'
+url: 'https://C0C05.github.io'
 
 github:
-  username: xdann1             # change to your github username
-
-twitter:
-  username: xdann1_            # change to your twitter username
+  username: C0C05             # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: xdann1
-  email: contacto.xdann1@gmail.com             # change to your email address
+  name: C0C05
+  email: alvaropuche.tic@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/xdann1       # change to your github homepage
+    - https://github.com/C0C05       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    #  - https://www.linkedin.com/in/alvaro-puche-garcia-764886185/
 
 google_site_verification:               # fill in to your verification string
 
