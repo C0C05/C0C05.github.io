@@ -2,8 +2,8 @@ name: "Build and deploy"
 on:
   push:
     branches:
+      - main
       - master
-      - gh-pages
     paths-ignore:
       - .gitignore
       - README.md
