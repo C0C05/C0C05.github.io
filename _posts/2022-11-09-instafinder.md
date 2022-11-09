@@ -26,12 +26,12 @@ Está herramienta se encarga de generar una lista de usuarios disponibles gracia
  - Ciudad:
  - Pais:
 
-Esta generación de nombres de usuarios es gracias al aplicativo [OSRFramework](https://github.com/i3visio/osrframework)
+Esta generación de nombres de usuarios es gracias al aplicativo [OSRFramework](https://github.com/i3visio/osrframework).
 
-Después utiliza está lista para buscar en la api de **instagram** todos los usuarios que se encuentran disponibles en la plataforma, todo gracias al aplicativo [Osintgram](https://github.com/Datalux/Osintgram)
+Después utiliza está lista para buscar en la api de **instagram** todos los usuarios que se encuentran disponibles en la plataforma, todo gracias al aplicativo [Osintgram](https://github.com/Datalux/Osintgram).
 
 
-### Acceder a el repositorio [Instafinder](https://github.com/C0C05/Instafinder) para acceder a la descarga del script, o el codigo del mismo ### 
+### Acceder a el repositorio [Instafinder](https://github.com/C0C05/Instafinder) para acceder a la descarga del script, o el codigo del mismo. ### 
 
 
 
