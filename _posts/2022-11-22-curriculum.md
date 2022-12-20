@@ -8,7 +8,7 @@ image:
   path: ../../assets/img/commons/avatar.jpg
   width: 200
   height: 200
-  alt: INSTAFINDER
+  alt: Curriculum
 ---
 
 ## En este post presento mi nuevo currículum:
