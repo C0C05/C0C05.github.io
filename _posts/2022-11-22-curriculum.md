@@ -13,14 +13,14 @@ image:
 
 ## En este post presento mi nuevo currículum:
 
-A continuación dejo una imagen de como se vería el currículum en un navegador con una resolución de 1920x1080p
+A continuación dejo una imagen de cómo se vería el currículum en un navegador con una resolución de 1920x1080p
 
 ![imagen del curriculum](../../assets/img/commons/curriculum.jpg)
 
 
 ### Para ver directamente la página web, pulsa [aquí](https://c0c05.github.io/Curriculum) ### 
 
-### Para ver el código de la página, tanto css como html pulsa [aquí](https://github.com/C0C05/Curriculum) ###
+### Para ver el código de la página, tanto css como html, pulsa [aquí](https://github.com/C0C05/Curriculum) ###
 
 
 

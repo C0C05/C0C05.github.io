@@ -31,7 +31,7 @@ Puedes instalarlas ejecutando el siguiente comando:
 
 ```pip install -r requirements.txt```
 
-Si se ejecuta en linux aparte de nmap también necesitará el aplicativo xclip, este se instala con el siguiente comando:
+Si se ejecuta en linux, aparte de nmap también necesitará el aplicativo xclip. Este se instala con el siguiente comando:
 
 ```sudo apt install xclip```
 
@@ -51,11 +51,11 @@ Algunas de las librerías y herramientas utilizadas son:
 
 El script comienza definiendo un manejador de señales para capturar la señal `SIGINT` (que se envía cuando se pulsa `Ctrl+C`) y mostrar un mensaje de salida segura al usuario antes de finalizar el script.
 
-Luego, se define la función `ip_scan` que realiza un escaneo de ARP para buscar hosts activos en un rango de IPs especificado. La función utiliza la librería `scapy` para crear y enviar un paquete ARP y escuchar la respuesta. Finalmente, muestra los hosts activos encontrados y el tiempo que ha tardado el escaneo.
+Luego se define la función `ip_scan` que realiza un escaneo de ARP para buscar hosts activos en un rango de IPs especificado. La función utiliza la librería `scapy` para crear y enviar un paquete ARP y escuchar la respuesta. Finalmente, muestra los hosts activos encontrados y el tiempo que ha tardado el escaneo.
 
 La función `port_scan` realiza un escaneo de puertos TCP para ver si están abiertos en una dirección IP especificada. Utiliza la librería `socket` para crear un socket y conectarse al puerto especificado. Si la conexión se establece correctamente, significa que el puerto está abierto y se muestra en pantalla.
 
-La función `scan` utiliza la herramienta `nmap` para escanear puertos y obtener información adicional sobre ellos, como el servicio que se está ejecutando en el puerto, el producto que lo utiliza
+La función `scan` utiliza la herramienta `nmap` para escanear puertos y obtener información adicional sobre ellos, como el servicio que se está ejecutando en el puerto, el producto que lo utiliza...
 
 Puedes descargarte el script en el repositorio [SpecialistSmartScan](https://github.com/C0C05/SpecialistSmartScan)
 
