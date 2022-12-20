@@ -15,5 +15,5 @@ image:
 
 
 
-En Este blog subire todo contenido relacionado con el mundo de la ciberseguridad.
+En este blog subiré todo contenido relacionado con el mundo de la ciberseguridad.
 
