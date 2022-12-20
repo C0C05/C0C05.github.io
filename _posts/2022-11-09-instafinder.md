@@ -31,7 +31,7 @@ Esta generación de nombres de usuarios es gracias al aplicativo [OSRFramework](
 Después utiliza esta lista para buscar en la api de **Instagram** todos los usuarios que se encuentran disponibles en la plataforma, todo gracias al aplicativo [Osintgram](https://github.com/Datalux/Osintgram).
 
 
-### Acceder al repositorio [Instafinder](https://github.com/C0C05/Instafinder) para acceder a la descarga del script, al codigo del mismo. ### 
+### Acceder al repositorio [Instafinder](https://github.com/C0C05/Instafinder) para acceder a la descarga del script, o al código del mismo. ### 
 
 
 

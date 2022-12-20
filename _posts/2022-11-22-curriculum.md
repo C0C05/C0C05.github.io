@@ -20,7 +20,7 @@ A continuación dejo una imagen de cómo se vería el currículum en un navegado
 
 ### Para ver directamente la página web, pulsa [aquí](https://c0c05.github.io/Curriculum) ### 
 
-### Para ver el código de la página, tanto css como html, pulsa [aquí](https://github.com/C0C05/Curriculum) ###
+### Para ver el código de la página, tanto css cómo html, pulsa [aquí](https://github.com/C0C05/Curriculum) ###
 
 
 
