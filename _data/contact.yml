@@ -9,9 +9,9 @@
   icon: 'fab fa-github'
   url: 'https://github.com/C0C05'
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  type: infojobs
+  icon: fas fa-user
+  url: 'https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=343885767059626582'
 -
   type: hackthebox
   icon: 'fas fa-cube'
